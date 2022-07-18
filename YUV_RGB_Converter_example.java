@@ -2,14 +2,6 @@ package dte.masteriot.tfm.securitycamerademo;
 
 import static java.lang.Thread.sleep;
 
-import android.app.Activity;
-import android.content.Context;
-import android.graphics.Bitmap;
-import android.os.Bundle;
-import android.os.Handler;
-import android.os.Message;
-import android.util.Log;
-import android.widget.ImageView;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedReader;
