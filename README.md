@@ -3,8 +3,6 @@ Function that converts YUV 4:2:0 format images into RGB with 8 bit depth in Java
 
 This can be helpful in Android devices since Android do not support YUV 4:2:0, but it does support RGB (among others).
 
-Important: This function only can convert 8 bit depth colours but not 10 or any other size.
-
 Contents
 
 	YUV_RGB_Converter.java file contains the function that makes the conversion

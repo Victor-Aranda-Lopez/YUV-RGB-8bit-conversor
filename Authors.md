@@ -1,1 +1,1 @@
-Víctor Aranda López  -  https://github.com/Victor-Aranda-Lopez
+Author: Víctor Aranda López  -  https://github.com/Victor-Aranda-Lopez  (Madrid, Spain)
